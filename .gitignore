@@ -1,0 +1,4 @@
+venv/
+options.json
+commands.json
+.idea/

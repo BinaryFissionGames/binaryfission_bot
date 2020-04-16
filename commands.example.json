@@ -1,0 +1,13 @@
+{
+    "add": {
+        "command_type": "add"
+    },
+    "delete": {
+        "command_type": "delete"
+    },
+    "test": {
+        "command_type": "text",
+        "cooldown": 30,
+        "text": "This is a test command"
+    },
+}
